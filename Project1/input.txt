@@ -1,0 +1,2 @@
+This is the content of the input file.
+It contains some text that we want to copy.
